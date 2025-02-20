@@ -1,0 +1,33 @@
+D:\HospitalDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+D:\HospitalDAL\bin\Debug\net8.0\HospitalDAL.dll
+D:\HospitalDAL\bin\Debug\net8.0\HospitalDAL.pdb
+D:\HospitalDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+D:\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+D:\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+D:\HospitalDAL\obj\Debug\net8.0\HospitalDAL.dll
+D:\HospitalDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+D:\HospitalDAL\obj\Debug\net8.0\HospitalDAL.pdb
+D:\HospitalDAL\obj\Debug\net8.0\ref\HospitalDAL.dll
+D:\Assignment WEB\HospitalDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+D:\Assignment WEB\HospitalDAL\bin\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\HospitalDAL\bin\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\HospitalDAL\obj\Debug\net8.0\ref\HospitalDAL.dll
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\bin\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\bin\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\Via FileHandeling\HospitalDAL\obj\Debug\net8.0\ref\HospitalDAL.dll

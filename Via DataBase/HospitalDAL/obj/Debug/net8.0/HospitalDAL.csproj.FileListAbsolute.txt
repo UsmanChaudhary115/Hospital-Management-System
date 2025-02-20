@@ -1,0 +1,36 @@
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\bin\Debug\net8.0\HospitalDAL.dll
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\bin\Debug\net8.0\HospitalDAL.pdb
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.dll
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.pdb
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\ref\HospitalDAL.dll
+C:\Users\Mr. Usman\OneDrive\Desktop\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.AssemblyReference.cache
+D:\Assignment WEB\Via DataBase\HospitalDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+D:\Assignment WEB\Via DataBase\HospitalDAL\bin\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\Via DataBase\HospitalDAL\bin\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.AssemblyReference.cache
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\ref\HospitalDAL.dll
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\bin\Debug\net8.0\HospitalDAL.dll
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\bin\Debug\net8.0\HospitalDAL.pdb
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.AssemblyReference.cache
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.dll
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\HospitalDAL.pdb
+D:\5th semester\Web\Assignment\Assignment 1 WEB\Via DataBase\HospitalDAL\obj\Debug\net8.0\ref\HospitalDAL.dll

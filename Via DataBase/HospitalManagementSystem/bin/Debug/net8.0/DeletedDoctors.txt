@@ -1,0 +1,2 @@
+{"DoctorId":5,"Name":"Dr. Hamza Nadeem","Specialization":"Medicine"} Time of Deletion: 09/10/2024 8:24:41 pm
+{"DoctorId":6,"Name":"Sarmad","Specialization":"Coding"} Time of Deletion: 09/10/2024 9:32:51 pm

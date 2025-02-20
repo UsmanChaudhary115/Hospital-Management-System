@@ -1,0 +1,7 @@
+{"DoctorId":1,"Name":"Usman","Specialization":"Chest"}
+{"DoctorId":3,"Name":"Kamran","Specialization":"Eye"}
+{"DoctorId":4,"Name":"Noman","Specialization":"Stomach"}
+{"DoctorId":5,"Name":"Ahmad","Specialization":"Eye"}
+{"DoctorId":6,"Name":"Athar","Specialization":"Chest"}
+{"DoctorId":8,"Name":"Asad","Specialization":"eyes"}
+{"DoctorId":9,"Name":"Abu Sufyan","Specialization":"Ear"}

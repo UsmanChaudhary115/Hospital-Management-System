@@ -1,0 +1,54 @@
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.exe
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.deps.json
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.runtimeconfig.json
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.dll
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.pdb
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalDAL.dll
+D:\HospitalManagementSystem\bin\Debug\net8.0\HospitalDAL.pdb
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.csproj.AssemblyReference.cache
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.AssemblyInfoInputs.cache
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.AssemblyInfo.cs
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.csproj.CoreCompileInputs.cache
+D:\HospitalManagementSystem\obj\Debug\net8.0\Hospital.D8542E38.Up2Date
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.dll
+D:\HospitalManagementSystem\obj\Debug\net8.0\refint\HospitalConsoleApp.dll
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.pdb
+D:\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.genruntimeconfig.cache
+D:\HospitalManagementSystem\obj\Debug\net8.0\ref\HospitalConsoleApp.dll
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.exe
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.deps.json
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.runtimeconfig.json
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.dll
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.pdb
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\HospitalManagementSystem\bin\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.csproj.AssemblyReference.cache
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.AssemblyInfoInputs.cache
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.AssemblyInfo.cs
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.csproj.CoreCompileInputs.cache
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\Hospital.D8542E38.Up2Date
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.dll
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\refint\HospitalConsoleApp.dll
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.pdb
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.genruntimeconfig.cache
+D:\Assignment WEB\HospitalManagementSystem\obj\Debug\net8.0\ref\HospitalConsoleApp.dll
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.exe
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.deps.json
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.runtimeconfig.json
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.dll
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalConsoleApp.pdb
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalDAL.dll
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\bin\Debug\net8.0\HospitalDAL.pdb
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.csproj.AssemblyReference.cache
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.AssemblyInfoInputs.cache
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.AssemblyInfo.cs
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.csproj.CoreCompileInputs.cache
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\Hospital.D8542E38.Up2Date
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.dll
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\refint\HospitalConsoleApp.dll
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.pdb
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\HospitalConsoleApp.genruntimeconfig.cache
+D:\Assignment WEB\Via FileHandeling\HospitalManagementSystem\obj\Debug\net8.0\ref\HospitalConsoleApp.dll

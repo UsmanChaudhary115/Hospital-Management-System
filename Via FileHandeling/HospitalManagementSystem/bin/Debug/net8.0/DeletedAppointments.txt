@@ -1,0 +1,2 @@
+{"AppointmentId":3,"PatientId":4,"DoctorId":2,"AppointmentDate":"2024-10-06T00:00:00"} Time of Deletion: 06/10/2024 11:35:04 pm
+{"AppointmentId":1,"PatientId":1,"DoctorId":1,"AppointmentDate":"2024-12-31T00:00:00"} Time of Deletion: 09/10/2024 10:28:51 pm

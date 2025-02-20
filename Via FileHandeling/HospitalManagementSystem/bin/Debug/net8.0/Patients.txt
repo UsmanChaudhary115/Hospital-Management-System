@@ -1,0 +1,3 @@
+{"PatientId":1,"Name":"Usman Ali","Email":"usman@gmail.com","Disease":"eye flu"}
+{"PatientId":0,"Name":"Ali Haider","Email":"ali@gmail.com","Disease":"eye flu"}
+{"PatientId":2,"Name":"Athar","Email":"athar@gmail.com","Disease":"qwerty"}

@@ -1,0 +1,1 @@
+{"PatientId":1,"Name":"Usman Ali","Email":"usman@gmail.com","Disease":"eye flu"}

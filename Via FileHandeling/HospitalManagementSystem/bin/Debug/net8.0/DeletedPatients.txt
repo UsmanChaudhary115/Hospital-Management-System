@@ -1,0 +1,3 @@
+{"PatientId":8,"Name":"Saif Ali","Email":"saif12@gmail.com","Disease":"cough"} Time of Deletion: 08/10/2024 4:28:35 am
+{"PatientId":2,"Name":"Arslan Ali","Email":"arslan@gmail.com","Disease":"bronchitus"} Time of Deletion: 09/10/2024 10:31:27 pm
+{"PatientId":3,"Name":"Usman","Email":"usman@gmail.com","Disease":"asdfghjkl"} Time of Deletion: 09/10/2024 10:45:32 pm
